@@ -1,0 +1,57 @@
+body {
+  min-height: auto;
+}
+
+.header {
+  background: #106eea;
+  height: 40px;
+  font-size: 14px;
+  color: #fff;
+  padding-top: 6px;
+}
+#Home {
+  background-image: url(bg);
+  height: 800px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bizland {
+  margin-left: 175px;
+  padding: 30px;
+  font-family: sans-serif;
+  font-size: 35px;
+}
+
+.nav {
+  list-style-type: none;
+  display: flex;
+  float: right;
+  margin-top: 112px;
+  margin-right: 150px;
+  color: black;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-item {
+  color: black;
+  margin-top: -80px;
+}
+
+.header2 {
+  background-color: #fff;
+  height: 100px !important;
+}
+
+.breadcrumbs {
+  padding: 20px 0;
+  background-color: #f1f6fe;
+  min-height: 40px;
+}
+.swiper-pagination {
+  position: unset !important;
+  
+}
